@@ -97,7 +97,7 @@
 
 ## 👤 作者
 
-作者信息请参考：https://yfu-research.com/zh/
+作者信息请参考：https://yfu-research.com/
 
 ---
 
