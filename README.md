@@ -3,6 +3,25 @@
 
 基于Mie散射理论计算球形粒子在不同波长和半径下的散射效率、吸收效率等光学参数。
 
+## 作者信息
+
+- **姓名**: Yang FU
+- **研究网站**: [https://yfu-research.com/](https://yfu-research.com/)
+
+## 引用
+
+如果您在研究中使用了本代码，请引用以下文献，十分感谢：
+
+**1. Fu, Y., An, Y., Xu, Y., Dai, J. G., & Lei, D. (2022). Polymer coating with gradient‐dispersed dielectric nanoparticles for enhanced daytime radiative cooling. *EcoMat*, 4(2), e12169.**  
+https://doi.org/10.1002/eom2.12169
+
+**2. Ma, X., Fu, Y., Portniagin, A., Yang, N., Liu, D., Rogach, A. L., ... & Lei, D. (2022). Effects of Stokes shift and Purcell enhancement on fluorescence-assisted radiative cooling. *Journal of Materials Chemistry A*, 10(37), 19635-19640.**
+https://doi.org/10.1039/D2TA02259A
+
+**3. Li, J., Fu, Y., Zhou, J., Yao, K., Ma, X., Gao, S., ... & Yu, X. (2023). Ultrathin, soft, radiative cooling interfaces for advanced thermal management in skin electronics. *Science advances*, 9(14), eadg1837.**
+https://doi.org/10.1126/sciadv.adg1837
+
+
 ## 📋 功能特性
 
 - 计算球形粒子的Mie散射效率
@@ -94,10 +113,6 @@
 ## 📄 许可证
 
 请根据您的项目需要添加相应的许可证信息。
-
-## 👤 作者
-
-作者信息请参考：https://yfu-research.com/
 
 ---
 
